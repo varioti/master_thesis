@@ -3,7 +3,7 @@
 - June 2023
 - https://researchportal.unamur.be/en/studentTheses/benchmarking-vision-transformers-for-image-classification-in-digi
 
-This repository contains the code developed during my master thesis which explore the application of Vision Transformers (ViTs) in the field of digital pathology.
+This repository contains the code developed during my master thesis. We explore the application of Vision Transformers (ViTs) in the field of digital pathology.
 
 ## Abstract
 Experts in digital pathology use artificial intelligence to help them detect disease in images of biological tissue. Convolutional Neural Networks (CNNs) are commonly used for this purpose. In this master thesis, we evaluate a new architecture, Vision Transformer (ViT), by comparing them with CNNs. ViTs have recently appeared in image recognition and have shown promising results. We test their applicability in digital pathology by empirically comparing the two models on a diverse set of biomedical images. The results indicate that both models achieve similar performances, suggesting that they can both be considered as potential choices for disease detection. These findings underline the interest in further exploring the use of ViTs in digital pathology.
